@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Expert.</h3>
+<h3 align="center">Software Engineer focus on Data Science and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeed-engr&label=Profile%20views&color=0e75b6&style=flat" alt="saeed-engr" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Leetcode**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
