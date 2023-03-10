@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
+<h2>align="center">Software Engineer focus on Data Science and Machine Learning.</h2>
+
 
 - 🎓 I am currently pursuing my **Master's in Artificial Intelligence**.
 - 🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
 - 🎯 My Goal is to Contribute to as many **open source project and grow up Coding Communitity** as possible.
 - ✨ I love to participate international **Coding Competitions**.
   
-<h3 align="center">Software Engineer focus on Data Science and Machine Learning.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeed-engr&label=Profile%20views&color=0e75b6&style=flat" alt="saeed-engr" /> </p>
 
 - 🌱 I’m currently learning **Leetcode**
