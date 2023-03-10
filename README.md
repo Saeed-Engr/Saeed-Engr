@@ -2,7 +2,7 @@
 
 - 🎓 I am currently pursuing my **Master's in Artificial Intelligence**.
 - 🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
-- 🎯 My Goal is to Contribute to as many **open source project and grow up Pakistani Students** as possible.
+- 🎯 My Goal is to Contribute to as many **open source project and grow up Coding Communitity** as possible.
 - ✨ I love to participate international **Coding Competitions**.
   
 <h3 align="center">Software Engineer focus on Data Science and Machine Learning.</h3>
