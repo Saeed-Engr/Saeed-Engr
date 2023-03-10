@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
-<table>
- <tr>
-   <td valign="center">
-      🎓 I am currently pursuing my **Master's in Artificial Intelligence**.
-      🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
-      🎯 My Goal is to Contribute to as many **open source project and grow up Pakistani Students** as possible.
-      ✨ I love to participate international **Coding Competitions**.
-   </td>
- </tr>
-</table>
+
+- 🎓 I am currently pursuing my **Master's in Artificial Intelligence**.
+- 🌱 I am currently learning **LeetCode and doing research in the domain of AI & ML**.
+- 🎯 My Goal is to Contribute to as many **open source project and grow up Pakistani Students** as possible.
+- ✨ I love to participate international **Coding Competitions**.
   
 <h3 align="center">Software Engineer focus on Data Science and Machine Learning.</h3>
 
