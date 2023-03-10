@@ -1,4 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+      🌱 I am currently learning **Java** and also interested in **Web Development**.
+      🎯 My Goal is to Contribute to as many **open source project** as possible.
+      ✨ I love to create different types of **contents**.
+    </td>
+ </tr>
+</table>
+  
 <h3 align="center">Software Engineer focus on Data Science and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeed-engr&label=Profile%20views&color=0e75b6&style=flat" alt="saeed-engr" /> </p>
