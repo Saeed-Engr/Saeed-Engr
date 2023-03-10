@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
 <table>
   <tr>
+    <td>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      🌱 I am currently learning **Java** and also interested in **Web Development**.
-      🎯 My Goal is to Contribute to as many **open source project** as possible.
-      ✨ I love to create different types of **contents**.
+      🎓 I am currently pursuing my **Master's in Artificial Intelligence**.
+      🌱 I am currently learning **LeetCode** and also interested in **Machine Learning**.
+      🎯 My Goal is to Contribute to as many **Pakistani Community to learn coding and represent to Pakistan in the world** as possible.
+      ✨ I love to guide Pakistani Students**take interest in coding and participate ineternational coding competitions**.
+    </td>
     </td>
  </tr>
 </table>
