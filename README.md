@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
-<h2>align="center">Software Engineer focus on Data Science and Machine Learning.</h2>
+<h2 align="center">Software Engineer focus on Data Science and Machine Learning.</h2>
 
 
 - 🎓 I am currently pursuing my **Master's in Artificial Intelligence**.
