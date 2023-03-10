@@ -9,8 +9,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeed-engr&label=Profile%20views&color=0e75b6&style=flat" alt="saeed-engr" /> </p>
 
-- 🌱 I’m currently learning **Leetcode**
-
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **msaeed4771@gmail.com**
